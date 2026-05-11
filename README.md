@@ -7,8 +7,8 @@
 </h1>
 <hr>
 
-This repository contains the implementation of [MatryoshkaLoRA-Learning Accurate Hierarchical Low-Rank Representations for LLM Fine-Tuning]
-(https://huggingface.co/papers/2605.07850).
+This repository contains the implementation of the paper [MatryoshkaLoRA-Learning Accurate Hierarchical Low-Rank Representations for LLM 
+Fine-Tuning](https://huggingface.co/papers/2605.07850).
 
 ## Reproducing Paper Results
 
